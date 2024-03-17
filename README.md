@@ -1,5 +1,5 @@
 # REPS
-### 📖**Paper** |
+### 馃摉**Paper** |
 
 Codes for "**REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking**", 
 International Journal of Applied Earth Observation and Geoinformation (JAG), 2024.
@@ -33,7 +33,8 @@ International Journal of Applied Earth Observation and Geoinformation (JAG), 202
 		    	|--train_10.txt
       	|--OOTB.json
     ```
-
+- 🧩 Usage: Run the `./tracking/REPS.m`
+- Results are saved in `./tracking/results`
 ## Abstract
 >Satellite video is an emerging surface observation data that has drawn increasing interest due to its potential in spatiotemporal dynamic analysis. Single object tracking of satellite videos allows the continuous acquisition of the positions and ranges of objects and establishes the correspondences in the video sequence. However, small-sized objects are vulnerable to rotation and non-rigid deformation. Moreover, the horizontal bounding box of most trackers has difficulty in providing accurate semantic representations such as object position, orientation, and spatial distribution. In this article, we propose a unified framework, named rotational equivalent Siamese network enhanced by probability segmentation (REPS), to enhance the tracking accuracy and semantic representations simultaneously. First, to deal with the inconsistency of representations, we design a rotation equivariant (RE) Siamese network architecture to detect the rotation variations of objects right from the start frame, achieving the RE tracking. Second, a pixel-level (PL) refinement is proposed to refine the spatial distribution of objects. In addition, we proposed an adaptive Gaussian fusion that synergizes tracking and segmentation results to obtain compact outputs for satellite object representations. Extensive experiments on satellite videos demonstrate the superiority of the proposed approach. The code will be available at https://github.com/YZCU/REPS.
 
@@ -63,7 +64,7 @@ If you have any questions or suggestions, feel free to contact me.
 Email: yuzeng_chen@whu.edu.cn 
 
 ## Citation
-If you find our work helpful in your research, kindly consider citing it. We appreciate your support��
+If you find our work helpful in your research, kindly consider citing it. We appreciate your support！
 
 ```
 @ARTICLE{chen2024reps,
