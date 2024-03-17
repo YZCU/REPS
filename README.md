@@ -1,5 +1,5 @@
 # REPS
-### 馃摉**Paper** |
+### **Paper** |
 
 Codes for "**REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking**", 
 International Journal of Applied Earth Observation and Geoinformation (JAG), 2024.
