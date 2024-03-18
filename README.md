@@ -36,9 +36,9 @@ International Journal of Applied Earth Observation and Geoinformation (JAG), 202
 - 🧩 Usage: Run the `./tracking/REPS.m`
 - Results are saved in `./tracking/results`
 - ### Visual samples
-  Train_1
+  car
  ![image](/fig/car.gif)
-  Plane_21
+  train
  ![image](/fig/train.gif)
 
 ## Abstract
