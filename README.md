@@ -73,14 +73,16 @@ Email: yuzeng_chen@whu.edu.cn
 If you find our work helpful in your research, kindly consider citing it. We appreciate your support！
 
 ```
-@ARTICLE{chen2024reps,
-  author={Yuzeng Chen, Yuqi Tang, Qiangqiang Yuan, and Liangpei Zhang},
-  journal={International Journal of Applied Earth Observation and Geoinformation}, 
-  title={REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-13},
-  doi={}
+@article{CHEN2024103741,
+title = {REPS: Rotation equivariant Siamese network enhanced by probability segmentation for satellite video tracking},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {128},
+pages = {103741},
+year = {2024},
+issn = {1569-8432},
+doi = {https://doi.org/10.1016/j.jag.2024.103741},
+url = {https://www.sciencedirect.com/science/article/pii/S1569843224000955},
+author = {Yuzeng Chen and Yuqi Tang and Qiangqiang Yuan and Liangpei Zhang},
+keywords = {Video satellite, Object tracking, Siamese network, Semantic representation},
 }
 ```
