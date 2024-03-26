@@ -5,7 +5,7 @@ Codes for "**REPS: Rotation Equivariant Siamese Network Enhanced by Probability 
 International Journal of Applied Earth Observation and Geoinformation (JAG), 2024.
 
 - Authors: 
-[Yuzeng Chen](https://github.com/YZCU), 
+[Yuzeng Chen](https://yzcu.github.io/), 
 [Yuqi Tang*](https://faculty.csu.edu.cn/yqtang/zh_CN/zdylm/66781/list/index.htm),
 [Qiangqiang Yuan](http://qqyuan.users.sgg.whu.edu.cn/),
 [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)
