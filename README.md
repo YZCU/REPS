@@ -5,7 +5,7 @@
 
 --------------------------------------------------------------------------------------
 :running:Keep updating:running::
-- Results of [REPS on OOTB](https://github.com/YZCU/DF/blob/main/rect_result%20of%20DF.zip) have been released.
+- Results of [REPS on OOTB](https://github.com/YZCU/REPS/blob/master/result%20of%20REPS.zip) have been released.
 --------------------------------------------------------------------------------------
 | Benchmark | REPS (PR / SR / NPR)|
 | ------------------------------ | ------------------- |
